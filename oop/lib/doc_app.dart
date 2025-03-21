@@ -13,7 +13,7 @@ class DocApp extends StatelessWidget {
     return ScreenUtilInit(
       designSize: const Size(375, 812),
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'flutter ',
         theme: ThemeData(
             primaryColor: ColorsManager.mainBlue,
             scaffoldBackgroundColor: Colors.white),
